@@ -7,15 +7,7 @@ Clone Select Template Form is a project that replicates the design and functiona
 Check out the live demo: 
 [Clone Select Template Form Demo](https://kaleemsipraa.github.io/clone-select-tamplate-form-html5.com/)
 
-## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
